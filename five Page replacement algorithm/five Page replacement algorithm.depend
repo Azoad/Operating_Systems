@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490861678 source:d:\a study\3 2\os\lab\five page replacement algorithm\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string.h>
+	<conio.h>
+
